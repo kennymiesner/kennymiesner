@@ -17,6 +17,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual%20studio%20code&logoColor=007acc">
 <img src="http://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=400099">
 <img src="http://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel">
+<img src="http://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify">
 
 ## Design
 
