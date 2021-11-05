@@ -17,3 +17,13 @@
 <img src="http://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual%20studio%20code&logoColor=007acc">
 <img src="http://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=400099">
 <img src="http://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel">
+
+## Design
+
+<img src="https://img.shields.io/badge/-Webflow-333333?style=flat&logo=webflow&logoColor=4253ff"> <img src = "https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma">
+<img src="https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch">
+<img src="https://img.shields.io/badge/-InVision-333333?style=flat&logo=invision">
+<img src="https://img.shields.io/badge/-Hotjar-333333?style=flat&logo=hotjar">
+<img src="https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd">
+<img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator">
+<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop">
