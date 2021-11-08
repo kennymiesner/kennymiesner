@@ -1,6 +1,12 @@
 # 👋 Hi, I’m @kennymiesner.
+
+With a background in design (product, web, visual), I've always worked very closely with developers/engineers to bring my work to life. Curious to peek behind the curtain, I enrolled in Lambda School's 6-month Full Stack Web Development program. I would love to take what I've learned to a company that marries the two, design and engineering. Think the Webflow, Figma, InVision, and Sketches of the world that help break down the barriers for designers to see their ideas come to life.
+
+[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennymiesner&hide=stars,issues&show_icons=true)](https://github.com/kennymiesner/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/kennymiesner/" target="_blank"><img src = "https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=3766c2"></a> <a href="https://twitter.com/kennymiesner" target="_blank"><img src = "https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
 <a href="https://dribbble.com/kennymiesner" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-333333?style=flat&logo=dribbble"></a>
+<a href="mailto:kennymiesner@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail"></a>
 
 ## Development
 
