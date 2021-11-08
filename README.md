@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @kennymiesner.
-<img src = "https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=3766c2"> <a href="https://twitter.com/kennymiesner" target="_blank"><img src = "https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
-<img src="https://img.shields.io/badge/-Dribbble-333333?style=flat&logo=dribbble">
+<a href="https://www.linkedin.com/in/kennymiesner/" target="_blank"><img src = "https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=3766c2"></a> <a href="https://twitter.com/kennymiesner" target="_blank"><img src = "https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
+<a href="https://dribbble.com/kennymiesner" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-333333?style=flat&logo=dribbble"></a>
 
 ## Development
 
