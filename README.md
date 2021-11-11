@@ -1,6 +1,11 @@
 # 👋 Hi, I’m @kennymiesner.
 
-With a background in design (product, web, visual), I've always worked very closely with developers/engineers to bring my work to life. Curious to peek behind the curtain, I enrolled in Lambda School's 6-month Full Stack Web Development program. I would love to take what I've learned to a company that marries the two, design and engineering. Think the Webflow, Figma, InVision, and Sketches of the world that help break down the barriers for designers to see their ideas come to life.
+- Past: Product, web, and visual design
+- Present: Learning the ropes of software engineering
+- Future: Joining a design-centric company helping to break down the barriers for designers to see their ideas come to life
+- 📺 &nbsp;[_Ted Lasso_](https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy) + [_Little America_](https://tv.apple.com/us/show/little-america/umc.cmc.2ice8mlcn1zrtxf81e5ktwg8p)
+- 🎧 &nbsp;[_Delta_ - Mumford & Sons](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) + [_Glory Sound Prep_ - Jon Bellion](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf)
+- 🖤 &nbsp;[Celsius Sparkling Orange](https://www.celsius.com/products/celsius/sparkling-orange/) + [RED BARON® Classic Crust Pepperoni Pizza](https://www.redbaron.com/products/multi-classic/multi-classic-pepperoni.htm)
 
 #### Let's connect.
 <a href="https://www.linkedin.com/in/kennymiesner/" target="_blank"><img src = "https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=3766c2"></a> <a href="https://twitter.com/kennymiesner" target="_blank"><img src = "https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
