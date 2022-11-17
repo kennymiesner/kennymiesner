@@ -3,7 +3,7 @@
 - Past: Web, visual, and brand design
 - Present: Building with the team at [ Brale ](https://github.com/brale-xyz)
 - 📺 &nbsp;[_Ted Lasso_](https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy) + [_Little America_](https://tv.apple.com/us/show/little-america/umc.cmc.2ice8mlcn1zrtxf81e5ktwg8p)
-- 🎧 &nbsp;[_Delta_ - Mumford & Sons](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) + [_Glory Sound Prep_ - Jon Bellion](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf)
+- 🎧 &nbsp;[_Never Had to Leave_ - Matt Maeson](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) + [_Wilderado_ - Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP?si=Y2alhXfwQmyCo7npU7abVA)
 - 🖤 &nbsp;[Celsius Sparkling Orange](https://www.celsius.com/products/celsius/sparkling-orange/) + [RED BARON® Classic Crust Pepperoni Pizza](https://www.redbaron.com/products/multi-classic/multi-classic-pepperoni.htm)
 
 #### Let's connect.
