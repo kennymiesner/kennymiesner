@@ -7,7 +7,7 @@
 - 🖤 &nbsp;[Celsius Sparkling Orange](https://www.celsius.com/products/celsius/sparkling-orange/) + [RED BARON® Classic Crust Pepperoni Pizza](https://www.redbaron.com/products/multi-classic/multi-classic-pepperoni.htm)
 
 #### Let's connect.
-<a href="https://www.linkedin.com/in/kennymiesner/" target="_blank"><img src = "https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=3766c2"></a> <a href="https://twitter.com/kennymiesner" target="_blank"><img src = "https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/kennymiesner/" target="_blank"><img src = "https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=3766c2"></a>
 <a href="https://dribbble.com/kennymiesner" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-333333?style=flat&logo=dribbble"></a>
 <a href="mailto:kennymiesner@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail"></a>
 
