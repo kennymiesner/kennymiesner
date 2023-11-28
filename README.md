@@ -2,8 +2,8 @@
 
 - Past: Web, visual, and brand design
 - Present: Building with the team at [ Brale ](https://github.com/brale-xyz)
-- 📺 &nbsp;[_Ted Lasso_](https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy) + [_Little America_](https://tv.apple.com/us/show/little-america/umc.cmc.2ice8mlcn1zrtxf81e5ktwg8p)
-- 🎧 &nbsp;[_Never Had to Leave_ - Matt Maeson](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) + [_Wilderado_ - Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP?si=Y2alhXfwQmyCo7npU7abVA)
+- 📺 &nbsp;[_The Bear_](https://www.fxnetworks.com/shows/the-bear) + [_Beef_](https://www.netflix.com/title/81447461)
+- 🎧 &nbsp;[_Stick Season (We'll All Be Here Forever)_ - Noah Kahan](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC?si=JqDgJ3yrSz29Wj2wr_cVnw) + [_Never Had to Leave_ - Matt Maeson](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7)
 - 🖤 &nbsp;[Celsius Sparkling Orange](https://www.celsius.com/products/celsius/sparkling-orange/) + [RED BARON® Classic Crust Pepperoni Pizza](https://www.redbaron.com/products/multi-classic/multi-classic-pepperoni.htm)
 
 #### Let's connect.
@@ -33,3 +33,4 @@
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js">
 <img src="http://img.shields.io/badge/-Github-333333?style=flat&logo=github">
 <img src="http://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual%20studio%20code&logoColor=007acc">
+<img src="http://img.shields.io/badge/-Warp-333333?style=flat&logo=warp&logoColor=007acc">
