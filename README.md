@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @kennymiesner.
 
 - Past: Web, visual, and brand design
-- Present: Building with the team at [ Brale ](https://github.com/brale-xyz)
+- Present: Senior Product Designer at [ Brale ](https://github.com/brale-xyz)
 - 📺 &nbsp;[_The Bear_](https://www.fxnetworks.com/shows/the-bear) + [_Beef_](https://www.netflix.com/title/81447461)
 - 🎧 &nbsp;[_Stick Season (We'll All Be Here Forever)_ - Noah Kahan](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC?si=JqDgJ3yrSz29Wj2wr_cVnw) + [_Never Had to Leave_ - Matt Maeson](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7)
 - 🖤 &nbsp;[Celsius Sparkling Orange](https://www.celsius.com/products/celsius/sparkling-orange/) + [RED BARON® Classic Crust Pepperoni Pizza](https://www.redbaron.com/products/multi-classic/multi-classic-pepperoni.htm)
