@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript">
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss">
 <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
-<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js">
 <img src="http://img.shields.io/badge/-Github-333333?style=flat&logo=github">
 <img src="http://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual%20studio%20code&logoColor=007acc">
 <img src="http://img.shields.io/badge/-Warp-333333?style=flat&logo=warp&logoColor=007acc">
