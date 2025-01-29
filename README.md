@@ -9,7 +9,11 @@
 <a href="mailto:kennymiesner@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail"></a>
 
 ## Daily
-<img src="https://img.shields.io/badge/-Apple-333333?style=flat&logo=apple"> <img src = "https://img.shields.io/badge/-Sonos-333333?style=flat&logo=sonos">
+<img src="https://img.shields.io/badge/-Apple-333333?style=flat&logo=apple"> <img src = "https://img.shields.io/badge/-Linear-333333?style=flat&logo=linear">
+<img src = "https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion">
+<img src = "https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack">
+<img src = "https://img.shields.io/badge/-1Password-333333?style=flat&logo=1password">
+<img src = "https://img.shields.io/badge/-Sonos-333333?style=flat&logo=sonos">
 <img src="https://img.shields.io/badge/-Spotify-333333?style=flat&logo=spotify">
 <img src="https://img.shields.io/badge/-Philips%20Hue-333333?style=flat&logo=philips-hue">
 
